@@ -45,3 +45,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/andrew-miroiu/ReactShop.git
 cd ReactShop
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
