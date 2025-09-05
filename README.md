@@ -21,15 +21,12 @@ Users can browse products, filter them, add items to the cart, view details, and
 
 ---
 
-## 🖼️ Screenshots
-_Add screenshots here (replace the links after uploading images to GitHub or an image host):_
+[![Homepage](./screenshots/homepage.png)](https://andreireactshop.netlify.app/)
+[![Shop](./screenshots/shop.png)](https://andreireactshop.netlify.app/shop)
+[![Cart](./screenshots/cart.png)](https://andreireactshop.netlify.app/cart)
+[![Wishlist](./screenshots/wishlist.png)](https://andreireactshop.netlify.app/wishlist)
+[![Product](./screenshots/productPage.png)](https://andreireactshop.netlify.app/product/19)
 
-
-![Homepage](./screenshots/homepage.png)
-![Shop](./screenshots/shop.png)
-![Cart](./screenshots/cart.png)
-![Wishlist](./screenshots/wishlist.png)
-![Product](./screenshots/productPage.png)
 
 ---
 
